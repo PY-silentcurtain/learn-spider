@@ -1,0 +1,1 @@
+基于scrapy的爬虫小项目，这是第一次尝试使用xpath，然后就一发不可收拾的爱上了它。scrapy也比使用requests要方便许多。
